@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.m_header{
+    display: flex;
+    justify-content: space-around;
+}
+.m_header h1{
+    text-align: center;
+
+}
+ul{
+    display: flex;}
+.m_header li{
+    margin-left: 43px;
+    list-style: none;
+    font-size: 20px;
+}
+li a{
+    text-decoration: none;
+}
+.logo_color{
+    color: coral;
+}
+.k_primary{
+    background-color: #fd6e0a;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    border: 0px;
+}
